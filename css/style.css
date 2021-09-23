@@ -1,49 +1,49 @@
 @font-face {
   font-family: 'IBMPlexSans Bold';
-  src: url("fonts/plex/IBMPlexSans-Bold.eot");
-  src: url("fonts/plex/IBMPlexSans-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-Bold.woff") format("woff"), url("fonts/plex/IBMPlexSans-Bold.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-Bold.svg#IBMPlexSans-Bold") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-Bold.eot");
+  src: url("/fonts/plex/IBMPlexSans-Bold.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-Bold.woff") format("woff"), url("/fonts/plex/IBMPlexSans-Bold.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-Bold.svg#IBMPlexSans-Bold") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Regular';
-  src: url("fonts/plex/IBMPlexSans-Regular.eot");
-  src: url("fonts/plex/IBMPlexSans-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-Regular.woff") format("woff"), url("fonts/plex/IBMPlexSans-Regular.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-Regular.svg#IBMPlexSans-Regular") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-Regular.eot");
+  src: url("/fonts/plex/IBMPlexSans-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-Regular.woff") format("woff"), url("/fonts/plex/IBMPlexSans-Regular.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-Regular.svg#IBMPlexSans-Regular") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Light';
-  src: url("fonts/plex/IBMPlexSans-Light.eot");
-  src: url("fonts/plex/IBMPlexSans-Light.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-Light.woff") format("woff"), url("fonts/plex/IBMPlexSans-Light.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-Light.svg#IBMPlexSans-Light") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-Light.eot");
+  src: url("/fonts/plex/IBMPlexSans-Light.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-Light.woff") format("woff"), url("/fonts/plex/IBMPlexSans-Light.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-Light.svg#IBMPlexSans-Light") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Thin';
-  src: url("fonts/plex/IBMPlexSans-Thin.eot");
-  src: url("fonts/plex/IBMPlexSans-Thin.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-Thin.woff") format("woff"), url("fonts/plex/IBMPlexSans-Thin.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-Thin.svg#IBMPlexSans-Thin") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-Thin.eot");
+  src: url("/fonts/plex/IBMPlexSans-Thin.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-Thin.woff") format("woff"), url("/fonts/plex/IBMPlexSans-Thin.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-Thin.svg#IBMPlexSans-Thin") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Bold Italic';
-  src: url("fonts/plex/IBMPlexSans-BoldItalic.eot");
-  src: url("fonts/plex/IBMPlexSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-BoldItalic.woff") format("woff"), url("fonts/plex/IBMPlexSans-BoldItalic.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-BoldItalic.svg#IBMPlexSans-BoldItalic") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-BoldItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-BoldItalic.woff") format("woff"), url("/fonts/plex/IBMPlexSans-BoldItalic.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-BoldItalic.svg#IBMPlexSans-BoldItalic") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Regular Italic';
-  src: url("fonts/plex/IBMPlexSans-RegularItalic.eot");
-  src: url("fonts/plex/IBMPlexSans-RegularItalic.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-RegularItalic.woff") format("woff"), url("fonts/plex/IBMPlexSans-RegularItalic.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-RegularItalic.svg#IBMPlexSans-RegularItalic") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-RegularItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-RegularItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-RegularItalic.woff") format("woff"), url("/fonts/plex/IBMPlexSans-RegularItalic.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-RegularItalic.svg#IBMPlexSans-RegularItalic") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Light Italic';
-  src: url("fonts/plex/IBMPlexSans-LightItalic.eot");
-  src: url("fonts/plex/IBMPlexSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-LightItalic.woff") format("woff"), url("fonts/plex/IBMPlexSans-LightItalic.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-LightItalic.svg#IBMPlexSans-LightItalic") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-LightItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-LightItalic.woff") format("woff"), url("/fonts/plex/IBMPlexSans-LightItalic.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-LightItalic.svg#IBMPlexSans-LightItalic") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'IBMPlexSans Thin Italic';
-  src: url("fonts/plex/IBMPlexSans-ThinItalic.eot");
-  src: url("fonts/plex/IBMPlexSans-ThinItalic.eot?#iefix") format("embedded-opentype"), url("fonts/plex/IBMPlexSans-ThinItalic.woff") format("woff"), url("fonts/plex/IBMPlexSans-ThinItalic.ttf") format("truetype"), url("fonts/plex/IBMPlexSans-ThinItalic.svg#IBMPlexSans-ThinItalic") format("svg");
+  src: url("/fonts/plex/IBMPlexSans-ThinItalic.eot");
+  src: url("/fonts/plex/IBMPlexSans-ThinItalic.eot?#iefix") format("embedded-opentype"), url("/fonts/plex/IBMPlexSans-ThinItalic.woff") format("woff"), url("/fonts/plex/IBMPlexSans-ThinItalic.ttf") format("truetype"), url("/fonts/plex/IBMPlexSans-ThinItalic.svg#IBMPlexSans-ThinItalic") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* http://meyerweb.com/eric/tools/css/reset/ 

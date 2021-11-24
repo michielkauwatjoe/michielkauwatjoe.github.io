@@ -105,7 +105,7 @@ h1 {
 h2 {
   font-family: "IBMPlexSans Thin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
-  color: white;
+  color: #9f5b6a;
   height: 18px;
   padding: 2px 0 8px;
   margin: 0 20px 0 0;
@@ -116,14 +116,14 @@ h2 {
 h3 {
   font-family: "IBMPlexSans Thin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
-  color: white;
+  color: #9f5b6a;
   height: 18px;
   padding: 2px 0 9px;
   margin: 0 20px 0 0; }
 
 h3:hover, h3:active, h3:focus {
   padding: 2px 0 8px;
-  color: white;
+  color: #9f5b6a;
   border-bottom-style: solid;
   border-bottom-width: 1px;
   border-bottom-color: white; }
@@ -133,7 +133,7 @@ h4 {
   float: left;
   font-family: "IBMPlexSans Thin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  color: white;
+  color: #9f5b6a;
   margin: 4px 20px 0 0;
   padding-bottom: 1px;
   border-bottom-style: solid;
@@ -144,7 +144,7 @@ h4 {
 h5 {
   font-family: "IBMPlexSans Thin", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 19.8px;
-  color: #1babe0;
+  color: #ba3d59;
   padding: 3px 0px; }
 
 h6 {
@@ -213,7 +213,7 @@ p {
 
 a {
   text-decoration: none;
-  color: #1babe0; }
+  color: #ba3d59; }
 
 .hidden {
   display: none; }
@@ -301,7 +301,7 @@ a {
   overflow: hidden;
   width: 100%;
   padding-top: 50px;
-  background-color: #1babe0;
+  background-color: #ba3d59;
   position: fixed;
   z-index: 1; }
 
